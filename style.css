@@ -38,6 +38,7 @@ main{
 justify-content:space-between;
 align-items: center;
 height: 100px;
+padding-right: 25px;
 }
 
 .navigation__nyhed{
@@ -214,11 +215,16 @@ color: rgb(238, 238, 238);
     align-items: center;
     justify-content:center;
 }
+.navigation .fa-solid{
+
+    margin: 15px;
+}
+
 .somi{
     display: flex;
     gap: 10px;
   float: right;
-
+margin-top: 43px;
   margin-left: 10px;
   margin-bottom: 100px;
 }
@@ -321,7 +327,7 @@ footer{
 
 }
 .fotter-container img{
-  height: 300px;
+  height: 400px;
 }
 .avis-img{
     margin-top: -85px;
